@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @n1hall
+- 👀 I’m interested in GIS, geospatial analysis, ArcGIS
+- 🌱 I’m currently learning geopandas, GIS tools
+- 📫 How to reach me: alyevanihal@gmail.com
+- 😄 Pronouns: she/her
